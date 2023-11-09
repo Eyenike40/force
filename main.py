@@ -44,5 +44,13 @@ def compute_force(mass: float):
     return acceleration * mass
 
 
+def convert_force(force):
+    """
+    A function to convert the force of an about
+    """
+
+    return force * 2/3
+
+
 if "__main__" == __name__:
     main()
