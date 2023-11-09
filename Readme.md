@@ -1,8 +1,8 @@
 ## Documentation for the function
-*******************************
+*********************************
 
 ### Function Details
-================
+====================
 The function compute the force of a object.
 The mass of the object is required for the computation.
 
