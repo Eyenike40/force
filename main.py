@@ -44,5 +44,9 @@ def compute_force(mass: float):
     return acceleration * mass
 
 
+def print():
+    print("Hello")
+
+
 if "__main__" == __name__:
     main()
